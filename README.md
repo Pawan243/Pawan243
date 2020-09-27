@@ -36,9 +36,9 @@ About me:
 
 
 <a href="">
-  <img align="center" src="https://github-readme-status.vercel.app/api?username=pawan243&show_icons=true&theme=radical" alt="pawan243"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pawan243&show_icons=true&theme=radical" alt="pawan243"/>
 </a>
 <a href="">
-  <img align="center" src="https://github-readme-status.vercel.app/api/top-langs/?username=pawan243&layout=compact&theme=radical" alt="pawan243"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawan243&layout=compact&theme=radical" alt="pawan243"/>
 </a>
 
