@@ -30,7 +30,7 @@ About me:
 - 🔭 I’m currently working on Impel IT Solutions
 - 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate on Python, PHP, C#, Javascript
-- 🤔 I’m looking for help with Algorithm $ Machine Learning
+- 🤔 I’m looking for help with Algorithm & Machine Learning
 - 💬 Ask me about anything
 - 📫 How to reach me: Email, Facebook
 
