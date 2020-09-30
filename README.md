@@ -27,7 +27,7 @@ Python, C/C++, JavaScript, PHP, C#
 
 About me:
 
-- 🔭 I’m currently working on Impel IT Solutions
+- 🔭 I’m currently working on Web IT Solutions
 - 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate on Python, PHP, C#, Javascript
 - 🤔 I’m looking for help with Algorithm & Machine Learning
